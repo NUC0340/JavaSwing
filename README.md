@@ -1,7 +1,6 @@
 # JavaSwing
-## 今天主要是对JAVASWING做了一个基本了解
 
-现在是20231014 19：06  
+## 现在是20231014 19：06 对JAVASWING做了一个基本了解
         JFrame frame = new MyFrame1("第二阶段基础学习");
         // 用JFrame中的函数setDefaultCloseOperation（JFrame.EXIT_ON_CLOSE）进行图形化交互的放大缩小退出
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -23,7 +22,7 @@ JPanel：是对一个窗口进行内容拓展，使之可以添加按钮，列�
             System.out.println("the button has been clicked!");
             showTime();
         } );
----
+
 以下均可以进行事件处理：     
 JButton；是创建一个按钮，可以进行点击
 JLabel： 标签，用于显示文本
