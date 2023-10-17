@@ -60,5 +60,13 @@ JPanel：是对一个窗口进行内容拓展，使之可以添加按钮，列�
         } catch (IOException e) {
             e.printStackTrace();
         }
-### 封装绘制界面控件的项目
+## 现在是20231017 21：23
+### 将之前的文件封装和资源文件的录入做了封装优化
+### 对鼠标事件进行了部分学习
+        1.addMouseListener(); 点击，按下，抬起，移入，移出
+        2.addMouseMotionListener(); 移动，拖动
+        3.addouseWheelListener(); 鼠标滚轮转动
+以及鼠标事件的部分API
+### 学习了鼠标事件的遮蔽器（类似于当初的布局器） 可以很好的遮蔽代码 完成自己想要做的事件
+ 
 
