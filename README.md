@@ -60,9 +60,8 @@ JPanel：是对一个窗口进行内容拓展，使之可以添加按钮，列�
         } catch (IOException e) {
             e.printStackTrace();
         }
-## 现在是20231017 21：23
+## 现在是20231017 21：23 对鼠标事件进行了学习和上次内容的补充
 ### 将之前的文件封装和资源文件的录入做了封装优化
-### 对鼠标事件进行了部分学习
         1.addMouseListener(); 点击，按下，抬起，移入，移出
         2.addMouseMotionListener(); 移动，拖动
         3.addouseWheelListener(); 鼠标滚轮转动
